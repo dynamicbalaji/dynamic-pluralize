@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dynamicbalaji/dynamic-pluralize/issues"
   },
-  "homepage": "https://github.com/dynamicbalaji/dynamic-pluralize#readme"
+  "homepage": "https://github.com/dynamicbalaji/dynamic-pluralize#readme",
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
 }
