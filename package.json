@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Node.js module that returns the plural form of any noun",
   "main": "dist/index.js",
-  "types" : "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,8 @@
     "pluralize": "^7.0.0"
   },
   "devDependencies": {
-    "@types/pluralize": "0.0.28"
+    "@types/pluralize": "0.0.28",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
