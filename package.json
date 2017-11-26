@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dynamicbalaji/dynamic-pluralize#readme",
   "dependencies": {
     "pluralize": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/pluralize": "0.0.28"
   }
 }
