@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/dynamicbalaji/dynamic-pluralize.svg?branch=master)](https://travis-ci.org/dynamicbalaji/dynamic-pluralize)
+[![Coverage Status](https://coveralls.io/repos/github/dynamicbalaji/dynamic-pluralize/badge.svg?branch=master)](https://coveralls.io/github/dynamicbalaji/dynamic-pluralize?branch=master)
+
 # dynamic-pluralize
 
 A Node.js module that returns the plural or singular form of any noun
